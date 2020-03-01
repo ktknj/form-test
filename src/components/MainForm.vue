@@ -183,7 +183,7 @@ import { AsYouType } from "libphonenumber-js";
 import axiosJsonpAdapter from "axios-jsonp";
 import axios from "axios";
 
-const ZIPCODE_API_URL = "http://zipcloud.ibsnet.co.jp/api/search";
+const ZIPCODE_API_URL = "https://zip-cloud.appspot.com/api/search";
 
 export default {
   name: "mainForm",
