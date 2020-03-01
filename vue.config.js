@@ -4,6 +4,7 @@ module.exports = {
   //   ? '/resume/'
   //   : '/',
   // githubでの公開用にセット
+  publicPath: '/form-test',
   outputDir: 'docs',
 
   devServer: {
